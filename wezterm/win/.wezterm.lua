@@ -17,8 +17,8 @@ config.font =
 
 -- For example, changing the color scheme:
 config.color_scheme = 'Github Dark (Gogh)'
-config.window_background_opacity = 0.85
--- config.win32_system_backdrop = 'Acrylic'
+config.window_background_opacity = 0.5
+config.win32_system_backdrop = 'Acrylic'
 
 -- keymaps
 config.keys = {
