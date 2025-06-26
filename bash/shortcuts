@@ -1,0 +1,17 @@
+
+# COPY INTO BASHRC
+
+# PHP
+alias art="php artisan "
+
+# general
+alias cls="clear"
+
+# tmux 
+alias tn="tmux new-session -t "
+alias tk="tmux kill-session -t "
+
+# GCC 
+alias gcr="gcc -std=C11 main.c -o run && ./run" # compile + run
+
+
